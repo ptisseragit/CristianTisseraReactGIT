@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 
 const Aside = props => {
     return (
-        <div class="col-md-4 mb-5 text-left">
+        <div className="col-md-4 mb-5 text-left">
         <h2>Contacto</h2>
         <hr/>
         <address>
